@@ -495,7 +495,7 @@ I enjoy building interactive dashboards, solving business problems, and deliveri
 
 💼 **LinkedIn:** https://www.linkedin.com/in/kapilakarunakaran/
 
-🌐 **Portfolio:** https://kapilavisakh.github.io
+🌐 **Portfolio:** https://kapilakarunakaran.github.io
 
 ---
 
