@@ -425,7 +425,7 @@ Analyze the effectiveness of content categories, post formats, hashtags, and cam
 
 Understand how audiences interact with different types of content through engagement and click behaviour analysis.
 
-![Customer Behaviour](Assets/socialmedia_customer_behaviour.png)
+![Customer Behaviour](Assets/socialmedia_customer_behavior.png)
 
 ---
 
@@ -441,7 +441,7 @@ Evaluate campaign performance across regions while identifying the best posting 
 
 The report is built on a well-structured **Star Schema** designed to optimize report performance and support efficient filtering across platform, content, geography, audience, and calendar dimensions.
 
-![Data Model](Assets/socialmedia_data_Model.png)
+![Data Model](Assets/socialmedia_data_model.png)
 
 ---
 
