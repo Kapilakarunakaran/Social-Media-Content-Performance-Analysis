@@ -409,7 +409,7 @@ This dashboard enables marketing teams to:
 
 Provides an executive summary of campaign performance through interactive KPIs and trend analysis.
 
-![Executive Overview](assets/images/Executive_Overview.png)
+![Executive Overview](Assets/Socialmedia_Overview.png)
 
 ---
 
@@ -417,7 +417,7 @@ Provides an executive summary of campaign performance through interactive KPIs a
 
 Analyze the effectiveness of content categories, post formats, hashtags, and campaign strategies.
 
-![Content Performance](assets/images/Content_Performance.png)
+![Content Performance](Assets/Socialmedia_Content_Performance.png)
 
 ---
 
@@ -425,7 +425,7 @@ Analyze the effectiveness of content categories, post formats, hashtags, and cam
 
 Understand how audiences interact with different types of content through engagement and click behaviour analysis.
 
-![Customer Behaviour](assets/images/Customer_Behaviour.png)
+![Customer Behaviour](Assets/Socialmedia_Customer_Behaviour.png)
 
 ---
 
@@ -433,7 +433,7 @@ Understand how audiences interact with different types of content through engage
 
 Evaluate campaign performance across regions while identifying the best posting times and geographic trends.
 
-![Time & Region](assets/images/Time_Region.png)
+![Time & Region](Assets/Socialmedia_Time_Region.png)
 
 ---
 
@@ -441,7 +441,7 @@ Evaluate campaign performance across regions while identifying the best posting 
 
 The report is built on a well-structured **Star Schema** designed to optimize report performance and support efficient filtering across platform, content, geography, audience, and calendar dimensions.
 
-![Data Model](assets/images/Data_Model.png)
+![Data Model](Assets/Data_Model.png)
 
 ---
 
