@@ -385,3 +385,118 @@ This dashboard enables marketing teams to:
 | Trend Analysis | Executive Reporting | Business Storytelling |
 
 ---
+# 📥 Project Files
+
+| File | Description |
+|------|-------------|
+| 📊 **Social_Media_Content_Performance.pbix** | Complete interactive Power BI dashboard |
+| 🖼️ Dashboard Screenshots | Executive Overview, Content Performance, Customer Behaviour, Time & Region |
+| ⭐ Data Model | Star Schema used for reporting and analytics |
+
+---
+
+# 📥 Download Power BI Report
+
+👉 **Download the complete Power BI dashboard**
+
+[📂 Social_Media_Content_Performance.pbix](Social_Media_Content_Performance.pbix)
+
+---
+
+# 🖼️ Dashboard Preview
+
+## 🏠 Executive Overview
+
+Provides an executive summary of campaign performance through interactive KPIs and trend analysis.
+
+![Executive Overview](assets/images/Executive_Overview.png)
+
+---
+
+## 🎯 Content Performance
+
+Analyze the effectiveness of content categories, post formats, hashtags, and campaign strategies.
+
+![Content Performance](assets/images/Content_Performance.png)
+
+---
+
+## 👥 Customer Behaviour
+
+Understand how audiences interact with different types of content through engagement and click behaviour analysis.
+
+![Customer Behaviour](assets/images/Customer_Behaviour.png)
+
+---
+
+## 🌍 Time & Region Analysis
+
+Evaluate campaign performance across regions while identifying the best posting times and geographic trends.
+
+![Time & Region](assets/images/Time_Region.png)
+
+---
+
+# ⭐ Data Model
+
+The report is built on a well-structured **Star Schema** designed to optimize report performance and support efficient filtering across platform, content, geography, audience, and calendar dimensions.
+
+![Data Model](assets/images/Data_Model.png)
+
+---
+
+# ⚙️ Technical Highlights
+
+- Designed a four-page interactive Power BI dashboard for social media performance analysis.
+- Developed reusable DAX measures for impressions, engagement, clicks, shares, comments, CTR, and growth metrics.
+- Built a star-schema data model to improve report performance and scalability.
+- Applied Power Query for data cleaning, transformation, and data preparation.
+- Created dynamic KPI cards with interactive filtering and drill-down functionality.
+- Integrated ZoomCharts custom visuals to enhance storytelling and user experience.
+- Implemented bookmarks, slicers, and cross-filter interactions for intuitive dashboard navigation.
+- Delivered executive-ready dashboards that transform marketing data into actionable business insights.
+
+---
+
+# 🚀 Business Impact
+
+This dashboard empowers marketing teams to:
+
+- Monitor campaign performance across multiple social media platforms.
+- Identify high-performing content formats and customer engagement trends.
+- Optimize marketing budgets by focusing on platforms with the highest ROI.
+- Improve content planning using seasonal, regional, and behavioural insights.
+- Support strategic marketing decisions through interactive KPI reporting.
+
+---
+
+# 🎓 Key Learnings
+
+Through this project, I strengthened my expertise in:
+
+- Building business-focused Power BI dashboards.
+- Designing scalable star-schema data models.
+- Developing advanced DAX measures for marketing KPIs.
+- Applying Power Query for efficient data transformation.
+- Creating executive-ready dashboards that communicate insights through effective data storytelling.
+- Designing intuitive user experiences with interactive visuals, filters, and drill-through navigation.
+
+---
+
+# 👤 About the Author
+
+## Kapila Karunakaran
+
+Data Analyst passionate about transforming raw data into actionable business insights using **Power BI, SQL, PostgreSQL, Tableau, Python, and Excel**.
+
+I enjoy building interactive dashboards, solving business problems, and delivering analytics solutions that help organizations make informed, data-driven decisions.
+
+📧 **Email:** kapilavisakh2017@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/kapilakarunakaran/
+
+🌐 **Portfolio:** https://kapilavisakh.github.io
+
+---
+
+⭐ **If you found this project helpful or interesting, consider giving this repository a Star!**
